@@ -1,4 +1,0 @@
-#%PAM-1.0
-auth required /usr/lib/pam/pam_unix.so shadow nullok
-auth required /usr/lib/pam/pam_nologin.so
-account required /usr/lib/pam/pam_unix.so

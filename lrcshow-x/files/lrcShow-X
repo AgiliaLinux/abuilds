@@ -1,4 +1,0 @@
-#!/bin/bash
-cd /usr/share/lrcShow-X/
-./lrcShow-X.py "$@" 
-exit 0

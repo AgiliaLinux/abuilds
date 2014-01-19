@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=icecat %u
-Icon=/usr/share/pixmaps/Icecat.png
-Type=Application
-Categories=Network;
-Name=GNU IceCat
-MimeType=text/html;
-X-KDE-StartupNotify=true
-

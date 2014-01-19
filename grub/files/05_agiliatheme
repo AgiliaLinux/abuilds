@@ -1,6 +1,0 @@
-#!/bin/bash -e
-
-cat << EOF
-set menu_color_normal=black/black
-set menu_color_highlight=white/dark-gray
-EOF

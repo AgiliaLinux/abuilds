@@ -1,4 +1,0 @@
-#!/bin/bash
-(cd @DOCROOT@/awstats/wwwroot/cgi-bin/
-./awstats.pl $*
-)

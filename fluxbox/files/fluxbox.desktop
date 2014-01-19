@@ -1,8 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=Fluxbox
-Comment=Fluxbox window manager
-Exec=/usr/bin/startfluxbox
-TryExec=/usr/bin/startfluxbox
-Icon=fluxbox.png
-Type=XSession
